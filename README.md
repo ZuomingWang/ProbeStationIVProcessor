@@ -135,4 +135,5 @@ For each rectification factor range, the script generates:
 
 For support, refer to the script’s comments or contact the author.
 
-![image](https://github.com/user-attachments/assets/71e1a38e-4334-4f99-be77-e265d8a16511)
+![image](https://github.com/user-attachments/assets/d7ed0973-76d3-4734-aa92-26364d391329)
+
