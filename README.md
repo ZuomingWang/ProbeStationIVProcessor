@@ -1,6 +1,7 @@
 # ProbeStationIVProcessor
-
 ![image](https://github.com/user-attachments/assets/d7ed0973-76d3-4734-aa92-26364d391329)
+
+![demo_balanced](https://github.com/user-attachments/assets/2985bac4-72ec-43c6-bedc-91913781bb02)
 # REAME for Voltage-Current Data Processing Script (`ME.ipynb`, `ME.exe`) 
 
 
